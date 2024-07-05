@@ -19,7 +19,7 @@ struct ContentView: View {
                 .tabItem { Label("Hello", systemImage: "briefcase") }
 
         }
-        .preferredColorScheme(.dark)
+        .preferredColorScheme(.light)
     }
 }
 
